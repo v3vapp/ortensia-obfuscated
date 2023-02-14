@@ -1,7 +1,7 @@
 ## Genetic Backtest and Auto-Pilot Trading Algorithm 
 __This repository is a mock.__
 ### Data Flow Diagram
-<img src="https://github.com/v3vapp/storage/blob/main/ortensia_data_flow2.png" width="100%" height="100%">  
+<img src="https://github.com/v3vapp/storage/blob/main/img/ortensia_data_flow2.png" width="100%" height="100%">  
 
 ## Blue Print
 
